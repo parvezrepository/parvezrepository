@@ -1,109 +1,115 @@
  <div align="center">
 
-<img src="./assets/portfolio-animation.gif" width="100%" alt="Animated Developer Portfolio"/>
+# ✦ MD PARVEZ HASAN
 
-<br/>
+### AI · SOFTWARE ENGINEERING · RESEARCH
 
-# MD PARVEZ HASAN
+**Aspiring AI Engineer | CSE Student | Developer**
 
-### COMPUTER SCIENCE & ENGINEERING STUDENT
+*Turning curiosity into code, and ideas into innovation.*
 
-**Aspiring AI Engineer · Software Developer · Research Enthusiast**
-
-*Engineering Ideas. Exploring Intelligence. Building the Future.*
-
-[GitHub](https://github.com/parvezrepository) &nbsp; ◆ &nbsp; [LinkedIn](https://www.linkedin.com/in/parvez-hasan-934611414/) &nbsp; ◆ &nbsp; Bangladesh 🇧🇩
+[⌘ GitHub](https://github.com/parvezrepository) · [in LinkedIn](https://www.linkedin.com/in/parvez-hasan-934611414/) · 📍 Bangladesh
 
 </div>
 
 ---
 
-## ◈ 01 — ABOUT ME
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-I'm **Md Parvez Hasan**, a Computer Science and Engineering student at **Daffodil International University, Bangladesh**.
+### 👨‍💻 ABOUT ME
 
-I'm passionate about Artificial Intelligence, Software Engineering, and Academic Research.
+CSE student at **Daffodil International University**.
 
-My goal is to become an **AI Engineer**, combining strong engineering fundamentals with research-driven innovation.
+Passionate about AI, software development, and academic research. Interested in building intelligent solutions and exploring new technologies.
 
-I enjoy exploring new technologies, building practical software solutions, solving technical problems, and developing research-oriented ideas.
+**Goal:** Grow as an AI Engineer.
 
----
+</td>
+<td width="45%" valign="top">
 
-## ◈ 02 — TECHNOLOGY STACK
+### 🎯 QUICK PROFILE
 
-**PROGRAMMING LANGUAGES**
+🎓 B.Sc. in CSE
 
-`Python` · `JavaScript` · `TypeScript` · `Java` · `Dart`
+🧠 Artificial Intelligence
 
-**FRONTEND & BACKEND**
+💻 Software Engineering
 
-`HTML5` · `CSS3` · `React` · `Node.js` · `Express.js` · `Flask`
+🔬 Academic Research
 
-**DATABASE & INFRASTRUCTURE**
+🌏 Bangladesh
 
-`PostgreSQL` · `Supabase` · `Firebase` · `Docker` · `Linux`
-
-**DEVELOPMENT TOOLS**
-
-`Git` · `GitHub` · `VS Code` · `REST APIs`
-
----
-
-## ◈ 03 — AREAS OF INTEREST
-
-**01 / ARTIFICIAL INTELLIGENCE**
-
-Artificial Intelligence · Machine Learning · Deep Learning
-
-**02 / SOFTWARE ENGINEERING**
-
-Full-Stack Development · Backend Engineering · API Design
-
-**03 / SYSTEMS & TECHNOLOGY**
-
-System Architecture · Automation · SaaS Development
-
-**04 / ACADEMIC RESEARCH**
-
-Research Paper Development · Literature Review · Data-Driven Analysis
+</td>
+</tr>
+</table>
 
 ---
-
-## ◈ 04 — RESEARCH DIRECTION
-
-Exploring intelligent systems, AI applications, data-driven analysis, and emerging technologies through continuous learning and research.
-
-**Research Approach**
-
-`IDENTIFY PROBLEMS` → `REVIEW LITERATURE` → `DEVELOP IDEAS` → `EXPLORE SOLUTIONS`
-
----
-
-## ◈ 05 — CURRENT DIRECTION
 
 <div align="center">
+
+### ⚡ TECH STACK
+
+`Python` `JavaScript` `TypeScript` `Java` `Dart`
+
+`React` `Node.js` `Express.js` `Flask`
+
+`PostgreSQL` `Supabase` `Firebase`
+
+`Git` `GitHub` `Docker` `Linux`
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 INTERESTS
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Full-Stack Development
+- Backend & API Design
+- Automation & SaaS
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 RESEARCH
+
+- AI Research & Applications
+- Research Paper Development
+- Literature Review
+- Data-Driven Analysis
+- Intelligent Systems
+- Emerging Technologies
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🚀 MY DIRECTION
 
 `LEARN` → `RESEARCH` → `BUILD` → `INNOVATE`
 
-**Exploring AI · Strengthening Engineering · Developing Research Skills**
+**Exploring AI · Building Software · Developing Research Skills**
 
-</div>
+<br/>
 
----
-
-## ◈ 06 — LET'S CONNECT
-
-<div align="center">
-
-[**↗ EXPLORE MY PROJECTS**](https://github.com/parvezrepository?tab=repositories)
-
-[**↗ CONNECT ON LINKEDIN**](https://www.linkedin.com/in/parvez-hasan-934611414/)
+[↗ EXPLORE PROJECTS](https://github.com/parvezrepository?tab=repositories) &nbsp; · &nbsp; [↗ LET'S CONNECT](https://www.linkedin.com/in/parvez-hasan-934611414/)
 
 <br/>
 
 *"Think beyond limitations. Build beyond expectations."*
 
-**© 2026 MD PARVEZ HASAN**
+**MD PARVEZ HASAN · © 2026**
 
 </div>
