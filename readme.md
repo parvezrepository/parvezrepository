@@ -1,14 +1,12 @@
- <div align="center">
+<div align="center">
 
-#  MD PARVEZ HASAN
+<img src="./assets/hero-animation.gif" width="100%" alt="Animated Coding Portfolio"/>
 
-### AI · SOFTWARE ENGINEERING · RESEARCH
+# MD PARVEZ HASAN
 
-**Aspiring AI Engineer | CSE Student | Developer**
+**ASPIRING AI ENGINEER · SOFTWARE DEVELOPER · RESEARCH ENTHUSIAST**
 
-*Turning curiosity into code, and ideas into innovation.*
-
-[⌘ GitHub](https://github.com/parvezrepository) · [in LinkedIn](https://www.linkedin.com/in/parvez-hasan-934611414/) · 📍 Bangladesh
+[⌘ GitHub](https://github.com/parvezrepository) · [in LinkedIn](https://www.linkedin.com/in/parvez-hasan-934611414/) · 🇧🇩 Bangladesh
 
 </div>
 
@@ -18,20 +16,18 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👨‍💻 ABOUT ME
+### ◈ ABOUT
 
 CSE student at **Daffodil International University**.
 
-Passionate about AI, software development, and academic research. Interested in building intelligent solutions and exploring new technologies.
+Interested in Artificial Intelligence, software engineering, and academic research.
 
-**Goal:** Grow as an AI Engineer.
+**Mission:** Learn deeply. Build intelligently. Innovate meaningfully.
 
 </td>
 <td width="45%" valign="top">
 
-### 🎯 QUICK PROFILE
-
-🎓 B.Sc. in CSE
+### ◈ FOCUS
 
 🧠 Artificial Intelligence
 
@@ -39,7 +35,7 @@ Passionate about AI, software development, and academic research. Interested in 
 
 🔬 Academic Research
 
-🌏 Bangladesh
+⚙️ Automation & SaaS
 
 </td>
 </tr>
@@ -49,67 +45,34 @@ Passionate about AI, software development, and academic research. Interested in 
 
 <div align="center">
 
-### ⚡ TECH STACK
+### ⚡ TECHNOLOGY STACK
 
 `Python` `JavaScript` `TypeScript` `Java` `Dart`
 
-`React` `Node.js` `Express.js` `Flask`
+`React` `Node.js` `Express` `Flask`
 
 `PostgreSQL` `Supabase` `Firebase`
 
-`Git` `GitHub` `Docker` `Linux`
-
-</div>
+`Git` `Docker` `Linux`
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🔬 RESEARCH & INTERESTS
 
-### 🧠 INTERESTS
+`Machine Learning` · `Deep Learning` · `AI Applications`
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Full-Stack Development
-- Backend & API Design
-- Automation & SaaS
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 RESEARCH
-
-- AI Research & Applications
-- Research Paper Development
-- Literature Review
-- Data-Driven Analysis
-- Intelligent Systems
-- Emerging Technologies
-
-</td>
-</tr>
-</table>
+`Literature Review` · `Research Papers` · `Data Analysis`
 
 ---
 
-<div align="center">
+### 🚀 LEARN → RESEARCH → BUILD → INNOVATE
 
-### 🚀 MY DIRECTION
-
-`LEARN` → `RESEARCH` → `BUILD` → `INNOVATE`
-
-**Exploring AI · Building Software · Developing Research Skills**
-
-<br/>
-
-[↗ EXPLORE PROJECTS](https://github.com/parvezrepository?tab=repositories) &nbsp; · &nbsp; [↗ LET'S CONNECT](https://www.linkedin.com/in/parvez-hasan-934611414/)
+[↗ EXPLORE PROJECTS](https://github.com/parvezrepository?tab=repositories) · [↗ LET'S CONNECT](https://www.linkedin.com/in/parvez-hasan-934611414/)
 
 <br/>
 
 *"Think beyond limitations. Build beyond expectations."*
 
-**MD PARVEZ HASAN · © 2026**
+**© 2026 MD PARVEZ HASAN**
 
 </div>
