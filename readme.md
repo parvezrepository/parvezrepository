@@ -1,6 +1,6 @@
  <div align="center">
 
-# ✦ MD PARVEZ HASAN
+#  MD PARVEZ HASAN
 
 ### AI · SOFTWARE ENGINEERING · RESEARCH
 
