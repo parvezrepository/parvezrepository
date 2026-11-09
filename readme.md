@@ -1,78 +1,83 @@
-<div align="center">
+<h1 align="center">Md Parvez Hasan</h1>
 
-<img src="./assets/hero-animation.gif" width="100%" alt="Animated Coding Portfolio"/>
+<p align="center">
+  <b>Full-Stack Developer · Telegram Automation · AI &amp; Data-Driven Systems</b><br>
+  <sub>CSE Student at Daffodil International University · Bangladesh</sub>
+</p>
 
-# MD PARVEZ HASAN
-
-**ASPIRING AI ENGINEER · SOFTWARE DEVELOPER · RESEARCH ENTHUSIAST**
-
-[⌘ GitHub](https://github.com/parvezrepository) · [in LinkedIn](https://www.linkedin.com/in/parvez-hasan-934611414/) · 🇧🇩 Bangladesh
-
-</div>
-
----
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### ◈ ABOUT
-
-CSE student at **Daffodil International University**.
-
-Interested in Artificial Intelligence, software engineering, and academic research.
-
-**Mission:** Learn deeply. Build intelligently. Innovate meaningfully.
-
-</td>
-<td width="45%" valign="top">
-
-### ◈ FOCUS
-
-🧠 Artificial Intelligence
-
-💻 Software Engineering
-
-🔬 Academic Research
-
-⚙️ Automation & SaaS
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/parvezrepository"><img src="https://img.shields.io/badge/GitHub-parvezrepository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/parvez-hasan-934611414"><img src="https://img.shields.io/badge/LinkedIn-Parvez_Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:parvez241-15-484@diu.edu.bd"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-<div align="center">
+## About
 
-### ⚡ TECHNOLOGY STACK
+I build practical software: full-stack web apps, SaaS platforms, and Telegram automation systems. My work covers database-driven applications, third-party API integration, and end-to-end delivery, from planning and implementation to testing and deployment.
 
-`Python` `JavaScript` `TypeScript` `Java` `Dart`
-
-`React` `Node.js` `Express` `Flask`
-
-`PostgreSQL` `Supabase` `Firebase`
-
-`Git` `Docker` `Linux`
+My research interests are in Software Engineering, Artificial Intelligence, Machine Learning, and applying intelligent automation to real problems.
 
 ---
 
-### 🔬 RESEARCH & INTERESTS
+## Tech Stack
 
-`Machine Learning` · `Deep Learning` · `AI Applications`
+**Languages**
 
-`Literature Review` · `Research Papers` · `Data Analysis`
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,html,css&theme=dark" alt="Languages">
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark" alt="Frameworks">
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark" alt="Databases">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools">
+
+<sub>Also: MQL4 · MetaTrader 4 · Pandas · Scikit-learn · FFmpeg · HLS.js · Telethon · Aiogram · Pyrogram · PyTgCalls · Grammy</sub>
 
 ---
 
-### 🚀 LEARN → RESEARCH → BUILD → INNOVATE
+## Featured Projects
 
-[↗ EXPLORE PROJECTS](https://github.com/parvezrepository?tab=repositories) · [↗ LET'S CONNECT](https://www.linkedin.com/in/parvez-hasan-934611414/)
+| Project | Description | Stack |
+|:--|:--|:--|
+| **PARXSTREAM** | High-performance multi-source streaming platform with media processing and stream management | `TypeScript` `React` `Node.js` `FFmpeg` `HLS.js` `PostgreSQL` |
+| **BHUMIVerse** | AI-assisted land fraud detection: ownership inconsistencies and double-selling risk analysis | `Python` `FastAPI` `React` `Scikit-learn` `PostgreSQL` |
+| **FinTech LMS & Crypto Checkout** | Full-stack learning platform with authentication and cryptocurrency payments | `Next.js` `TypeScript` `Supabase` `Tailwind` |
+| **Telegram Multi-Account Controller** | Concurrent automation managing 25+ sessions with live audio streams and event monitoring | `Python` `Pyrogram` `PyTgCalls` `asyncio` `FFmpeg` |
+| **Telegram TON SMM Bot** | Automated SMM platform with crypto deposit verification and balance management | `TypeScript` `Grammy` `Supabase` |
+| **Telegram Ads GEO Analyzer** | Ad analytics tool estimating campaign target locations and visualizing historical GEO data | `Python` `FastAPI` `Pyrogram` `SQLite` |
+| **TradeKits** | Digital products marketplace with order processing and sales analytics | `React` `Node.js` `Express` `Supabase` |
+| **BuildNest** | Construction management: workforce coordination, project tracking, financial monitoring | `Python` `MySQL` |
+| **Agro Farmer Management System** | Database-driven app for managing farmer records and agricultural operations | `Java` `MySQL` `OOP` |
 
-<br/>
+---
 
-*"Think beyond limitations. Build beyond expectations."*
+## Experience
 
-**© 2026 MD PARVEZ HASAN**
+**Independent Software Developer**
+Full-stack applications, SaaS platforms, backend systems, and digital marketplaces using React, Next.js, Node.js, FastAPI, and Supabase.
 
-</div>
+**Freelance Telegram Automation Developer**
+Bots and management systems for license verification, membership management, subscription automation, and signal distribution.
+
+**Founder, Digital Products Store**
+Built and ran an online store covering website operations, order management, and digital product delivery.
+
+---
+
+## Education
+
+**B.Sc. in Computer Science & Engineering** · Daffodil International University · Expected Dec 2027
+
+---
+
+<p align="center">
+  <sub>Open to collaboration, freelance work, and research opportunities.</sub>
+</p>
