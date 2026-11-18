@@ -48,15 +48,16 @@ My research interests are in Software Engineering, Artificial Intelligence, Mach
 | Project | Description | Stack |
 |:--|:--|:--|
 | **PARXSTREAM** | Universal OTT streaming platform with stream extraction, TMDB discovery, and custom HLS media playe | `TypeScript` `React` `Node.js` `FFmpeg` `HLS.js` `PostgreSQL` |
-| **BHUMIVerse** | AI-assisted land fraud detection: ownership inconsistencies and double-selling risk analysis | `Python` `FastAPI` `React` `Scikit-learn` `PostgreSQL` |
+| **Smart Form Assistant** | Privacy-focused AI extension automating Google Forms survey filling via contextual LLM reasoning and one-click DOM ticking | `JavaScript` `Manifest V3` `Chrome Extension` `OpenRouter API` `DOM API` |
 | **FinTech LMS & Crypto Checkout** | Full-stack learning platform with authentication and cryptocurrency payments | `Next.js` `TypeScript` `Supabase` `Tailwind` |
+| **BHUMIVerse** | AI-assisted land fraud detection: ownership inconsistencies and double-selling risk analysis | `Python` `FastAPI` `React` `Scikit-learn` `PostgreSQL` |
 | **Telegram Multi-Account Controller** | Concurrent automation managing 25+ sessions with live audio streams and event monitoring | `Python` `Pyrogram` `PyTgCalls` `asyncio` `FFmpeg` |
 | **Telegram TON/Gram Booster SMM Bot** | Automated SMM platform with crypto deposit verification and balance management | `TypeScript` `Grammy` `Supabase` |
 | **Telegram Ads GEO Analyzer** | Ad analytics tool estimating campaign target locations and visualizing historical GEO data | `Python` `FastAPI` `Pyrogram` `SQLite` |
 | **TradeKits** | Digital products marketplace with order processing and sales analytics | `React` `Node.js` `Express` `Supabase` |
 | **BuildNest** | Construction management: workforce coordination, project tracking, financial monitoring | `Python` `MySQL` |
 | **Agro Farmer Management System** | Database-driven app for managing farmer records and agricultural operations | `Java` `MySQL` `OOP` |
-| [**Smart Form Assistant**]| Privacy-focused AI extension automating Google Forms survey filling via contextual LLM reasoning and one-click DOM ticking | `JavaScript` `Manifest V3` `Chrome Extension` `OpenRouter API` `DOM API` |
+
 
 ---
 
