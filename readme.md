@@ -46,6 +46,7 @@ My research interests are in Software Engineering, Artificial Intelligence, Mach
 ## Featured Projects
 
 | Project | Description | Stack |
+| **OpenSource Radar** | Autonomous GitHub scout, repository scoring engine & viral content studio | Python Streamlit SQLAlchemy AsyncIO Gemini/OpenAI |
 |:--|:--|:--|
 | **PARXSTREAM** | Universal OTT streaming platform with stream extraction, TMDB discovery, and custom HLS media playe | `TypeScript` `React` `Node.js` `FFmpeg` `HLS.js` `PostgreSQL` |
 | **Smart Form Assistant** | Privacy-focused AI extension automating Google Forms survey filling via contextual LLM reasoning and one-click DOM ticking | `JavaScript` `Manifest V3` `Chrome Extension` `OpenRouter API` `DOM API` |
