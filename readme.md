@@ -10,7 +10,7 @@
   <!-- Social & Profile Badges -->
   <p align="center">
     <a href="https://github.com/parvezrepository"><img src="https://img.shields.io/badge/GitHub-parvezrepository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://linkedin.com/in/parvez-hasan-934611414"><img src="https://img.shields.io/badge/LinkedIn-Parvez_Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://linkedin.com/in/parvezhasan143"><img src="https://img.shields.io/badge/LinkedIn-Parvez_Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:parvez241-15-484@diu.edu.bd"><img src="https://img.shields.io/badge/Email-parvez241--15--484%40diu.edu.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <img src="https://komarev.com/ghpvc/?username=parvezrepository&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
   </p>
