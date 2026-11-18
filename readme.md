@@ -47,7 +47,7 @@ My research interests are in Software Engineering, Artificial Intelligence, Mach
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **PARXSTREAM** | High-performance multi-source streaming platform with media processing and stream management | `TypeScript` `React` `Node.js` `FFmpeg` `HLS.js` `PostgreSQL` |
+| **PARXSTREAM** | Universal OTT streaming platform with stream extraction, TMDB discovery, and custom HLS media playe | `TypeScript` `React` `Node.js` `FFmpeg` `HLS.js` `PostgreSQL` |
 | **BHUMIVerse** | AI-assisted land fraud detection: ownership inconsistencies and double-selling risk analysis | `Python` `FastAPI` `React` `Scikit-learn` `PostgreSQL` |
 | **FinTech LMS & Crypto Checkout** | Full-stack learning platform with authentication and cryptocurrency payments | `Next.js` `TypeScript` `Supabase` `Tailwind` |
 | **Telegram Multi-Account Controller** | Concurrent automation managing 25+ sessions with live audio streams and event monitoring | `Python` `Pyrogram` `PyTgCalls` `asyncio` `FFmpeg` |
