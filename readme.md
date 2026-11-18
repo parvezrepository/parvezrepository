@@ -2,10 +2,6 @@
   <!-- Neon Waving Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,6&height=230&section=header&text=Md%20Parvez%20Hasan&fontSize=44&fontAlignY=36&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20Telegram%20Automation%20%E2%80%A2%20AI%20%26amp;%20Data-Driven%20Systems&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Header Banner" />
 
-  <!-- Dynamic Typing SVG -->
-  <a href="https://github.com/parvezrepository">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&width=650&height=75&lines=Full-Stack+Developer+%C2%B7+Telegram+Automation;AI+%26+Data-Driven+Systems+Architect;CSE+Student+at+Daffodil+International+University" alt="Typing SVG" />
-  </a>
 
   <p align="center">
     <b>CSE Student at Daffodil International University · Bangladesh</b>
