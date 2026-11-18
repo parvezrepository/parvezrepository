@@ -56,6 +56,7 @@ My research interests are in Software Engineering, Artificial Intelligence, Mach
 | **TradeKits** | Digital products marketplace with order processing and sales analytics | `React` `Node.js` `Express` `Supabase` |
 | **BuildNest** | Construction management: workforce coordination, project tracking, financial monitoring | `Python` `MySQL` |
 | **Agro Farmer Management System** | Database-driven app for managing farmer records and agricultural operations | `Java` `MySQL` `OOP` |
+| [**Smart Form Assistant**]| Privacy-focused AI extension automating Google Forms survey filling via contextual LLM reasoning and one-click DOM ticking | `JavaScript` `Manifest V3` `Chrome Extension` `OpenRouter API` `DOM API` |
 
 ---
 
