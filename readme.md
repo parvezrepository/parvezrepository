@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Neon Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,6&height=230&section=header&text=Md%20Parvez%20Hasan&fontSize=44&fontAlignY=36&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20Telegram%20Automation%20%E2%80%A2%20AI%20%26%20Data-Driven%20Systems&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,6&height=230&section=header&text=Md%20Parvez%20Hasan&fontSize=44&fontAlignY=36&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20Telegram%20Automation%20%E2%80%A2%20AI%20%26amp;%20Data-Driven%20Systems&descAlignY=58&descAlign=50&descSize=16" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Typing SVG -->
   <a href="https://github.com/parvezrepository">
