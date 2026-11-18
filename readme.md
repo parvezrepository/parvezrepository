@@ -51,7 +51,7 @@ My research interests are in Software Engineering, Artificial Intelligence, Mach
 | **BHUMIVerse** | AI-assisted land fraud detection: ownership inconsistencies and double-selling risk analysis | `Python` `FastAPI` `React` `Scikit-learn` `PostgreSQL` |
 | **FinTech LMS & Crypto Checkout** | Full-stack learning platform with authentication and cryptocurrency payments | `Next.js` `TypeScript` `Supabase` `Tailwind` |
 | **Telegram Multi-Account Controller** | Concurrent automation managing 25+ sessions with live audio streams and event monitoring | `Python` `Pyrogram` `PyTgCalls` `asyncio` `FFmpeg` |
-| **Telegram TON SMM Bot** | Automated SMM platform with crypto deposit verification and balance management | `TypeScript` `Grammy` `Supabase` |
+| **Telegram TON/Gram Booster SMM Bot** | Automated SMM platform with crypto deposit verification and balance management | `TypeScript` `Grammy` `Supabase` |
 | **Telegram Ads GEO Analyzer** | Ad analytics tool estimating campaign target locations and visualizing historical GEO data | `Python` `FastAPI` `Pyrogram` `SQLite` |
 | **TradeKits** | Digital products marketplace with order processing and sales analytics | `React` `Node.js` `Express` `Supabase` |
 | **BuildNest** | Construction management: workforce coordination, project tracking, financial monitoring | `Python` `MySQL` |
